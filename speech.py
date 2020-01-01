@@ -1,3 +1,3 @@
-import speech
+import music
 
-speech.say("Kill all humans!")
+music.play(music.NYAN)
